@@ -12,7 +12,7 @@ int main ( int argumentcount , char *argumentval[] )
      SDL_Renderer *renderer = SDL_CreateRenderer(window, -1 ,0);
      cout<<"Nitin";
 
-     cout<<"I joined.";
+     cout<<"I joined.again!";
      
 
 return 0;     

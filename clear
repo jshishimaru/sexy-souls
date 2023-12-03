@@ -1,0 +1,68 @@
+[33mcommit 425ea51c17f688f95a30f3974af335d6f7878b97[m[33m ([m[1;36mHEAD -> [m[1;32mNitin[m[33m, [m[1;31mnitin/Nitin[m[33m)[m
+Author: nitinn_rajj <rajnitin088@gmail.com>
+Date:   Sat Dec 2 20:11:50 2023 +0530
+
+    I added one line
+
+[33mcommit 77a51c2d8383c8b9459e05b9f6cab541da80fe8e[m
+Author: nitinn_rajj <rajnitin088@gmail.com>
+Date:   Sat Dec 2 20:00:11 2023 +0530
+
+    I added cout<<Nitin
+
+[33mcommit a26fa99896cf26bf89912bbb454658c02c29e7de[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 09f8fe7 d837c6d
+Author: Jai Bhadu <149306144+jshishimaru@users.noreply.github.com>
+Date:   Sat Dec 2 19:21:24 2023 +0530
+
+    Merge pull request #1 from jshishimaru/Jai
+    
+    Jai
+
+[33mcommit d837c6dfc0f4e0eea0a35510bce9b4957ec3d7d3[m[33m ([m[1;31morigin/Jai[m[33m)[m
+Author: shishimaru <jbsss785@gmail.com>
+Date:   Sat Dec 2 12:03:56 2023 +0530
+
+    launch.json file added
+
+[33mcommit 0ca84c033e7fdb1901269f99d88f645986e2db50[m
+Author: shishimaru <jbsss785@gmail.com>
+Date:   Sat Dec 2 10:28:09 2023 +0530
+
+    creating window in SDL
+
+[33mcommit 09f8fe71ad7fdf2e9355b4f4b255373636cf8517[m
+Author: shishimaru <jbsss785@gmail.com>
+Date:   Sat Dec 2 10:04:56 2023 +0530
+
+    SDL Library Setup
+
+[33mcommit c5a2972c906f0ed89cbad0d39a468b9450d37817[m
+Author: shishimaru <jbsss785@gmail.com>
+Date:   Sat Dec 2 09:37:06 2023 +0530
+
+    blank
+
+[33mcommit a79935600238213dac0ab5928fada52ad4f192f5[m
+Author: shishimaru <jbsss785@gmail.com>
+Date:   Sat Dec 2 08:53:58 2023 +0530
+
+    a file deleted
+
+[33mcommit 6343d8a990b3285af747373db945e115a18c4870[m
+Author: shishimaru <jbsss785@gmail.com>
+Date:   Sat Dec 2 08:04:54 2023 +0530
+
+    File edited in new branch
+
+[33mcommit cfb3ea7fb6659736c8aaec58d50ab5d8eb26132c[m
+Author: shishimaru <jbsss785@gmail.com>
+Date:   Sat Dec 2 06:32:46 2023 +0530
+
+    Sigmaloop added to main branch
+
+[33mcommit 1c1aeab9c07588d5866cda018fad361153967485[m
+Author: jshishimaru <149306144+jshishimaru@users.noreply.github.com>
+Date:   Fri Dec 1 06:56:43 2023 +0530
+
+    Initial commit
